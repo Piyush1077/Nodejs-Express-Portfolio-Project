@@ -1,0 +1,46 @@
+{
+    "projects":[
+        {
+            "id":1,
+            "projectName":"GuessFavFruit",        
+            "ProjectLink":"/project?id=1",
+            "technologies":["Php"],
+            "projectDesc":"Guess the favourite fruit selected by the computer to win the game.",
+            "projectImg":["images/Lab02-2.PNG","images/Lab02-3.PNG","images/Lab02-6.PNG"]
+        },
+        {
+            "id":2,
+            "projectName":"Madison Square Market",
+            "ProjectLink":"/project?id=2",
+            "technologies":["jQuery", "HTML", "CSS"],
+            "projectDesc":"Enter into your very own favourite market - Madison Square Market",
+            "projectImg":["images/Capture10.PNG","images/Capture11.PNG","images/Capture12.PNG"]
+            
+        },
+        {
+            "id":3,
+            "projectName":"Random-Quotes-Generator",
+            "ProjectLink":"/project?id=3",
+            "technologies":["javascipt","HTML", "CSS"],
+            "projectDesc":"A Random Quote Generator to reemind you of some of the great sayings",
+            "projectImg":["images/Capture01.PNG","images/Capture02.PNG","images/Capture03.PNG"]
+        },
+        {
+            "id":4,
+            "projectName":"Pagination",
+            "ProjectLink":"/project?id=4",
+            "technologies":["javascipt","HTML", "CSS"],
+            "projectDesc":"List of Contacts",
+            "projectImg":["images/Capture13.PNG","images/Capture14.PNG","images/Capture15.PNG"]
+            
+        },
+        {
+            "id":5,
+            "projectName":"bmi Form",
+            "ProjectLink":"/project?id=5",
+            "technologies":["node.js"],
+            "projectDesc":"online bmi calculator, Enter your weight, height and age to know your body mass index.",
+            "projectImg":["images/Capture08.PNG","images/Capture07.PNG","images/Capture06.PNG"]
+        }
+    ]
+}
